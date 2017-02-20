@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * Inconsistent space/tab settings
 * Bad spacing
+* Too long function names
