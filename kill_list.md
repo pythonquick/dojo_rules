@@ -8,3 +8,4 @@ Kill List
 * Inconsistent space/tab settings
 * Bad spacing
 * Too long function names
+* Confusing variable names
