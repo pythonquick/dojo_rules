@@ -5,3 +5,7 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* Inconsistent space/tab settings
+* Bad spacing
+* Too long function names
+* Confusing variable names
