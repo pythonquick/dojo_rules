@@ -9,3 +9,4 @@ Kill List
 * Bad spacing
 * Too long function names
 * Confusing variable names
+* Long variable names
